@@ -1,4 +1,4 @@
-### math game in 1 minute
+### Math Game in 1 minute
 
 ## Requirements
 
