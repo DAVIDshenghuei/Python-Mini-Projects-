@@ -77,3 +77,4 @@ if __name__ =='__main__':
     print('{} questions and your correct rate is {:.2f}%'.format(total, correct / total * 100))
     for q in questions:
         print(q)
+
