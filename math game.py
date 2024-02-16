@@ -1,13 +1,9 @@
 import time
 import random
-
-
+ 
+# To get all Divisors of N
 def get_divisor(n):
-    '''
-    Get a random divisor of n.
-    :param n: The number
-    :return: a divisor of n
-    '''
+	
     l = []
     for i in range(1, n + 1):
         if n % i == 0:
@@ -37,6 +33,7 @@ if __name__ =='__main__':
         # Let user input answer
         try:
             ans = input('{} = '.format(a_op_b))
+	# the format is a ['+', '-', '*', '/'] b = ans
         except:
             ans = ''
 		
@@ -50,6 +47,8 @@ if __name__ =='__main__':
             total = total + 1
             questions.append('{}={}'.format(a_op_b, ans))
 
+    #check the correct rate
     print('{} questions and your correct rate is {:.2f}%'.format(total, correct / total * 100))
+    # Repeat all questions and responses
     for q in questions:
         print(q)
