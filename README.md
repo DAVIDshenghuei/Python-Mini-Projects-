@@ -11,16 +11,9 @@
 # 2. English Traditional Chinese Simplified Chinese Translation
 
 ## Requirements
-1.Run the code in console using command line.
-2.It'll ask you to input English or Chinese words or sentence. Then it'll print the related translation text.
-3.If you input 'q' it'll stop to ask then quit the program.
-4.What will we practice in this project?
-5.while loop
-6.input text
-7.if conditions
-8.http post request
-9.dictionary
-10.requests package (need to install it by pip install requests)
+1. Run the code in console using command line.
+2. It'll ask you to input English or Chinese words or sentence. Then it'll print the related translation text.
+3. If you input 'z' it'll stop to ask then quit the program.
 
 
 
