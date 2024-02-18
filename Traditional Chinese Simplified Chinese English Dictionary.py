@@ -10,7 +10,7 @@ cc = OpenCC('t2s')
 
 while True:
     text = cc.convert(input('Please input English or Chinese word:').strip())
-    if text == 'q':
+    if text == 'z':
         break
 
     data = {'kw': text}
