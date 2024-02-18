@@ -15,7 +15,7 @@
 2. It'll ask you to input English or Chinese words or sentence. Then it'll print the related translation text.
 3. If you input 'z' it'll stop to ask then quit the program.
    
-# 3. Check your English speech
+# 3. Check your French word or sentence
 
 ## Requirements
 
