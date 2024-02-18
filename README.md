@@ -14,6 +14,14 @@
 1. Run the code in console using command line.
 2. It'll ask you to input English or Chinese words or sentence. Then it'll print the related translation text.
 3. If you input 'z' it'll stop to ask then quit the program.
+   
+# 3. Check your English speech
+
+## Requirements
+
+1. Run the code in console using command line.
+2. It'll let you input a French word or sentence, then it'll let you speak it.
+3. It'll record your voice using mic and check if you speak correctly. If not it'll ask you speak it again until you speak it correctly.
 
 
 
