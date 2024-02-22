@@ -30,7 +30,7 @@
 1. Run the code in console using command line.
 2. Load the .txt of a book and find out the frequency of word usage.
    
-# 5. Highest Frequency Word
+# 5. PYTHON Games - Tic-Tac-Toe game board
 1. Detailed Explanation of Coding Ideas
 
 
