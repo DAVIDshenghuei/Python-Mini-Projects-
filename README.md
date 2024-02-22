@@ -29,8 +29,9 @@
 
 1. Run the code in console using command line.
 2. Load the .txt of a book and find out the frequency of word usage.
-
-
+   
+# 5. Highest Frequency Word
+1. Detailed Explanation of Coding Ideas
 
 
 
