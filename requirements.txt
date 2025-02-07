@@ -1,0 +1,19 @@
+# Required libraries for Math Game
+random
+
+# Required libraries for Translation Program
+googletrans==4.0.0-rc1  # Google Translate API for translations
+
+# Required libraries for French Pronunciation Checker
+speechrecognition==3.8.1  # Speech Recognition library for checking French pronunciation
+pyaudio==0.2.11  # Audio interface for microphone input
+
+# Required libraries for Highest Frequency Word Finder
+nltk==3.6.3  # Natural Language Toolkit for text processing
+
+# Required libraries for Tic-Tac-Toe Game
+termcolor==1.1.0  # For adding color to terminal output (optional)
+
+# Required libraries for Greedy Snake Game
+tkinter  # GUI library for the game window
+random  # To generate random food position
