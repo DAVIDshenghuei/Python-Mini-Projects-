@@ -51,6 +51,15 @@ Run the code in the console using command line.
   - Play a game of Tic-Tac-Toe against the computer or your friends. 
   - The game board is interactive and easy to use, perfect for quick rounds of fun.
   - **Who will win?** You'll just have to play to find out! 🏆
+ 
+### 6. **Greedy Snake Game 🐍🍏**
+**A simple yet addictive snake game where you control the snake and try to beat your own high score!**
+
+- **How it works:**
+   - Use the arrow keys to control the snake's direction.
+   - Eat the red food to grow the snake and increase your score.
+   - Avoid hitting the walls or the snake's own body.
+   - **The game continues as long as you don't collide**; try to beat your best score! 🏆
 
 **Detailed Explanation of Coding Ideas:**  
 - This project covers essential game mechanics, like a 3x3 grid, user input handling, and determining winners. It’s a perfect mini project for those looking to learn how to build interactive games!
